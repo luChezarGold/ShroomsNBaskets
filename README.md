@@ -6,9 +6,14 @@
 
 ## Запуск
 
-1. Установите зависимости:
+1.1 Установите зависимости:
    ```bash
    pip install fastapi uvicorn
+   ```
+
+1.2 Установите зависимости (ДЛЯ GUI):
+   ```bash
+   pip install requests tkinter
    ```
 
 2. Запустите сервер:
